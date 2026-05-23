@@ -101,8 +101,7 @@ Iris-Data-Analysis/
 │
 └── images/
     ├── pairplot.png
-    ├── boxplot.png
-    └── correlation_heatmap.png
+
 ```
 
 ---
